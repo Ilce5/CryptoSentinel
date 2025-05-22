@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "187978495424",
+    "project_id": "cryptosentinel-e4983",
+    "storage_bucket": "cryptosentinel-e4983.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187978495424:android:3d36eca7056252b2454425",
+        "android_client_info": {
+          "package_name": "mk.com.cryptosentinel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187978495424-dsqvi9lphjq9n1h20rvjgm25mh338pjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mk.com.cryptosentinel",
+            "certificate_hash": "cce0555be6487ea4438acaa37d556017ef297564"
+          }
+        },
+        {
+          "client_id": "187978495424-v1bguj5jh7016jtsapiku5aq320k5qa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhXLIbQ6sYZXbAKSw38XU-_hesJDaI-NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187978495424-v1bguj5jh7016jtsapiku5aq320k5qa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
